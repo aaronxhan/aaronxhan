@@ -1,11 +1,11 @@
-# hey, i'm Aaron 👋
+# hello World, i'm Aaron 👋
 
 builder, creative, and business student, figuring out how to make cool things that matter.
 
 ### what i'm up to
-- 📚 3rd year BS Business Administration (Technology Management) @ Enderun Colleges
+- 📚 4th year BS Business Administration (Major in Technology Management) @ Enderun Colleges
 - 🏗️ Officer In Multiple RSO's @ Enderun Colleges
-- 👟 Founder of **PANALO** — a Filipino luxury streetwear brand (Y Combinator Startup School alum)
+- 👟 Founder of **PANALO** — a Filipino luxury brand (Y Combinator Startup School alum)
 - 🎬 Building **Kasting.ph** — a casting & modeling platform for the Philippine market
 
 ### what i'm into
@@ -16,11 +16,11 @@ builder, creative, and business student, figuring out how to make cool things th
 
 ### currently
 - 🌱 Deepening my understanding of tech strategy, data, and how founders actually operate
-- 🔍 Looking for a summer 2026 internship where I can build something real
-- 💻 Working on my portfolio → [aaronochan.com](https://aaronochan.com)
+- 🔍 Looking for a summer 2027 internship where I can build something real
+- 💻 Working on my portfolio → https://aaronochan.framer.website
 
 ### let's connect
-- 🌐 [aaronochan.com](https://aaronochan.com)
+- 🌐 [aaronochan.framer.website](https://aaronochan.framer.website)
 - 💼 [LinkedIn](https://linkedin.com/in/aaronochan)
 - 📸 Instagram: [@aaronochan](https://instagram.com/aaronochan)
 
