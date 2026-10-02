@@ -17,10 +17,10 @@ builder, creative, and business student, figuring out how to make cool things th
 ### currently
 - 🌱 Deepening my understanding of tech strategy, data, and how founders actually operate
 - 🔍 Looking for a summer 2027 internship where I can build something real
-- 💻 Working on my portfolio → https://aaronochan.framer.website
+- 💻 Working on my portfolio → https://aaronochan.com
 
 ### let's connect
-- 🌐 [aaronochan.framer.website](https://aaronochan.framer.website)
+- 🌐 [portfolio website](https://aaronochan.com)
 - 💼 [LinkedIn](https://linkedin.com/in/aaronochan)
 - 📸 Instagram: [@aaronochan](https://instagram.com/aaronochan)
 
